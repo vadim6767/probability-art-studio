@@ -1,1 +1,1 @@
-# probability-art-studio
+Probability Art Studio — Static probability-based typographic art editor
